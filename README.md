@@ -12,14 +12,14 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <p align="left">
-        <a href="https://aws.amazon.com" target="_blank">
+        <code href="https://aws.amazon.com" target="_blank">
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
             alt="aws"
             width="40"
             height="40"
           />
-        </a>
+        </code>
         <a href="https://getbootstrap.com" target="_blank">
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
