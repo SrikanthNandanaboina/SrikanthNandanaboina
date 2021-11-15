@@ -20,4 +20,4 @@ SrikanthNandanaboina/SrikanthNandanaboina is a ✨ special ✨ repository becaus
 You can click the Preview link to take a look at your changes.
 --->
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SrikanthNandanaboina&show_icons=true&theme=gotham" alt="SrikanthNandanaboina" />
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SrikanthNandanaboina&show_icons=true&theme=gotham" alt="SrikanthNandanaboina" /> -->
